@@ -1,7 +1,7 @@
 '''
 Created on Mar 11, 2014
 
-@author: Gustavo Fuentes / Juan Pablo Munoz
+@author: Gustavo Fuentes
 '''
 import matplotlib
 matplotlib.use('Agg')
@@ -9,7 +9,7 @@ import matplotlib.pyplot as pl
 import numpy as np
 
 '''
-@summary: Metodo que permite crear un grafico a partir de los siguientes valores
+@summary: Metodo que permite crear un grafico y guardarlo en una ruta especificada a partir de los siguientes valores
 
 @param xAxis: valores de eje X 
 @param yAxis: valores de eje Y
